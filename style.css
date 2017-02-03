@@ -1,0 +1,17 @@
+.footer{
+  background-color: #282C34;
+  color: #FFF;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: auto;
+  width: 100%;
+}
+.footer a img{
+  margin-left: 1em;
+  margin-top: 1em;
+}
+#copyright{
+  text-align: right;
+  margin-right: 1em;
+}
